@@ -69,5 +69,3 @@ AI-based proctored exam tool tested by 5,000+ users
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shriyanshiatgithub)
 
 ---
-
-*Updated daily as I progress through the challenge.*
