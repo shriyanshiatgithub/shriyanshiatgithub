@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Final year B.Tech (CSE - IoT & Cyber Security) student and DevOps Intern
+Graduate B.Tech (CSE - IoT & Cyber Security) student and DevOps Intern
 at Netlink (Lumenore). I build, break, and fix infrastructure — learning evryday
 
 - 🏆 Winner — Smart India Hackathon 2024 (Hardware Edition)
